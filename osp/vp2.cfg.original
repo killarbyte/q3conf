@@ -4,7 +4,7 @@ unbindall
 // Player
 seta name "^1Killarbyte^7"
 seta nick "user"
-seta cg_enemyModel "keel/pm"
+seta cg_enemyModel "tankjr/pm"
 seta cg_enemyColors "0052"
 seta model "xaero/pm"
 seta headmodel "xaero/pm"
