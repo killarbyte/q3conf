@@ -5,7 +5,7 @@ unbindall
 seta name "^1Killarbyte^7"
 seta nick "user"
 seta cg_enemyModel "tankjr/pm"
-seta cg_enemyColors "0555"
+seta cg_enemyColors "0iii"
 seta model "xaero/pm"
 seta headmodel "xaero/pm"
 seta team_model "xaero/pm"
@@ -89,8 +89,8 @@ bind [ "weapprev"
 bind ] "weapnext
 
 // other
-bind CTRL "cg_fov 125"
-bind z "cg_fov 125"
+bind CTRL "cg_fov 120"
+bind z "cg_fov 120"
 bind b "com_maxfps 333"
 bind TAB "+scores"
 bind ENTER "+button2"
