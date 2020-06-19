@@ -111,7 +111,7 @@ bind F1 "vote yes"
 bind F2 "vote no"
 bind F3 "ready"
 bind F8 "ui_teamorders"
-bind F11 "screenshot"
+bind F11 "screenshotJPEG"
 bind n "+button3" //gesture
 
 // nopicmip
