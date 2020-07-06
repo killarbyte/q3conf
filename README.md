@@ -1,6 +1,6 @@
 ![Preview](https://raw.githubusercontent.com/killarbyte/q3conf/master/tmp/demo1.jpg)
 
-> vp2_accel.cfg - my current cfg  
+> [vp2_accel.cfg](https://raw.githubusercontent.com/killarbyte/q3conf/master/osp/vp2_accel.cfg) - my current cfg  
 > vp2_sens.cfg - cfg without accel [ priority sens ]  
 > vp2_yawp.cfg - cfg without accel [ priority m_yaw and m_pitch ]
 
