@@ -4,8 +4,8 @@ Download [this pak](https://github.com/killarbyte/q3conf/blob/master/baseq3/zzzz
 
 ![Preview](https://raw.githubusercontent.com/killarbyte/q3conf/master/tmp/demo1.jpg)
 
-vp2_accel.cfg - my current cfg  
-vp2_sens.cfg - cfg version without accel [ priority sens ]  
-vp2_yawp.cfg - cfg version without accel [ priority m_yaw and m_pitch ]
+> vp2_accel.cfg - my current cfg  
+> vp2_sens.cfg - cfg version without accel [ priority sens ]  
+> vp2_yawp.cfg - cfg version without accel [ priority m_yaw and m_pitch ]
 
 tmp : git add . ; git commit -m "msg" ; git push
